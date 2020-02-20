@@ -1,0 +1,14 @@
+{
+  "name": "polymer-litelement-learning",
+  "version": "1.0.0",
+  "description": "Practice with LitElement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phil Lorenzo",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.2.1"
+  }
+}

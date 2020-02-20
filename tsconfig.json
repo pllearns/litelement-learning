@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "ES2015",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "lib": ["es2017", "dom"],
+    "preserveConstEnums": true,
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*",
+  ],
+  "exclude": [
+    "**/*.spec.ts"
+  ]
+}
